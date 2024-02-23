@@ -2,7 +2,6 @@
 - 👀 I’m interested in Javascript, Angular JS, and React JS
 - 🌱 I’m currently learning Angular JS 
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me valakeval08@gmail.com
 
 <!---
 Kevalrao05/Kevalrao05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
